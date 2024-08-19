@@ -9,3 +9,7 @@ THIS IS WHATSAPP CODE
 4 . Attachments ( Image , Video , Audio ) code
 
 5 . Hiding last seen
+
+6 . Adding the audio feature
+
+7 . Adding the video feature
