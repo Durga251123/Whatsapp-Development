@@ -13,3 +13,5 @@ THIS IS WHATSAPP CODE
 6 . Adding the audio feature
 
 7 . Adding the video feature
+
+8 . Adding the status feature
